@@ -11,7 +11,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file. here
+    mkdocs.yml    # The configuration file. test
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
